@@ -11,12 +11,12 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "mint"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Seize the day"
+title                    : "SHIN의 분석공부로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shin"
@@ -116,7 +116,7 @@ author:
       url: "https://github.com/ohnownihs"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/ohnownihs"
+      # url: "https://instagram.com/ohnownihs"
 
 # Site Footer
 footer:
