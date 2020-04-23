@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analyst"
   location         : "Republic of Korea"
-  email            : "ohnownihs@gmail.com"
+  email            : #"ohnownihs@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -116,7 +116,7 @@ author:
       url: "https://github.com/ohnownihs"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/ohnownihs"
 
 # Site Footer
 footer:
