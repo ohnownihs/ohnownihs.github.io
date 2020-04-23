@@ -1,26 +1,22 @@
 ---
 permalink: /about/
-title: "About hongsi"
+title: "About Shin"
 excerpt: "to be data analyst"
 layout: single
-# layouts_gallery:
-#  - url: /assets/images/hmm.png
-#    image_path: /assets/images/mm-layout-splash.png
-#    alt: "splash layout example"
-#  - url: /assets/images/mm-layout-single-meta.png
-#    image_path: /assets/images/mm-layout-single-meta.png
-#    alt: "single layout with comments and related posts"
-#  - url: /assets/images/mm-layout-archive.png
-#    image_path: /assets/images/mm-layout-archive.png
-#    alt: "archive layout example"
+
 last_modified_at: 2020-04-01T01:00:00
-comment: true
+comment: false
 toc: true
 ---
-![thinking](../assets/images/hmm.png)
 
-## so many dreams, but first data analyst
-This is hongsi's blog to record everyday tryouts to reach out personal goals to be data analyst.
-
-
-> Just Keep Swimming
+## Done is better than perfect.
+### 다루는 내용
+* 다중회귀분석
+* 데이터 크롤링
+* EDA
+* 머신러닝 회귀기법
+* 머신러닝 분류기법
+* 자연어 처리
+* 코호트 분석
+* RFM 분석
+* SQL 쿼리
